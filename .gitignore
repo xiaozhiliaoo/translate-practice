@@ -31,3 +31,8 @@ sync.sh
 
 #jRebal
 rebel.xml
+
+.build
+*.pyc
+generated/*.inc
+locale/ja/LC_MESSAGES/generated/*.po
