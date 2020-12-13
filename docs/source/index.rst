@@ -1,9 +1,24 @@
-Welcome to translate-practice's documentation!
+translate-practice's doc!
 ==============================================
+
+Another simple header
+=====================
+
+Here is some text explaining some very complicated stuff.::
+
+    print 'hello'
+    >> hello
+
+Guide:
+^^^^^
+
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
+
+   license
+   help
 
 
 
