@@ -20,6 +20,9 @@ target/
 *~
 .#*
 
+# ingore sphinx doc
+docs/build/*
+
 # Omni Graffle #
 *(Autosaved).graffle
 
